@@ -1,10 +1,8 @@
-<p>
-<a href="https://github.com/martintsan" style="float: right;">
+<a href="https://github.com/martintsan">
     <img align="right" src="https://komarev.com/ghpvc/?username=martintsan&label=Visitors&color=brightgreen&style=flat-square&logo=github" alt="gtihub-visitors" />
 </a>
 
 <h1>I'm Martin（块马）</h1>
-</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
 
@@ -38,11 +36,40 @@ Hi there 👋. I am a seasoned software developer with over a decade of experien
 </p>
 <br />
 
-## Languages and tools I usually use
-<br />
-<p>
-HTML CSS3 JavaScript TypeScript React NextJS Ruby on Rails
-</p>
-<p>
-VSCode Docker PostgreSQL Surge Obsidian Adobe XD
-</p>
+<table width="100%">
+<tbody>
+<tr>
+<th> Languages </th><th> Tools </th>
+</tr>
+<tr>
+<td>
+
+- HTML 
+- CSS3 
+- JavaScript 
+- TypeScript 
+- React 
+- NextJS 
+- Ruby on Rails
+
+</td>
+<td>
+
+- Ubuntu
+- VSCode 
+- Docker 
+- PostgreSQL 
+- Surge 
+- Obsidian 
+- Adobe XD 
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
