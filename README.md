@@ -22,5 +22,14 @@ Hi there 👋. I am a seasoned software developer with over a decade of experien
 <p align="center">
     <a href="./images/martin-wechatqr.jpg" target="_blank" alt="WeChat" title="WeChat">
         <img src="./images/wechat.svg" width="28px"/>
+    </a>&emsp;
+    <a href="https://www.zhihu.com/people/martinnett" target="_blank" alt="Zhihu" title="Zhihu">
+        <img src="./images/zhihu.svg" width="28px"/>
+    </a>&emsp;
+    <a href="https://juejin.cn/user/3781967736474477" target="_blank" alt="Juejin" title="Juejin">
+        <img src="./images/juejin.svg" width="28px"/>
+    </a>&emsp;
+    <a href="https://space.bilibili.com/553955841?spm_id_from=444.41.0.0" target="_blank" alt="Bilibili" title="Bilibili">
+        <img src="./images/bilibili.svg" width="28px"/>
     </a>
 </p>
