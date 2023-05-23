@@ -1,4 +1,4 @@
-<a href="https://github.com/martintsan">
+<a href="https://github.com/martintsan" style="float: right;">
     <img align="right" src="https://komarev.com/ghpvc/?username=martintsan&label=Visitors&color=brightgreen&style=flat-square&logo=github" alt="gtihub-visitors" />
 </a>
 
