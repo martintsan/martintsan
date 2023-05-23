@@ -23,6 +23,9 @@ Hi there 👋. I am a seasoned software developer with over a decade of experien
     <a href="./images/martin-wechatqr.jpg" target="_blank" alt="WeChat" title="WeChat">
         <img src="./images/wechat.svg" width="28px"/>
     </a>&emsp;
+    <a href="https://www.linkedin.com/in/martintsan" target="_blank" alt="LinkedIn" title="LinkedIn">
+        <img src="./images/linkedin.svg" width="28px"/>
+    </a>&emsp;
     <a href="https://www.zhihu.com/people/martinnett" target="_blank" alt="Zhihu" title="Zhihu">
         <img src="./images/zhihu.svg" width="28px"/>
     </a>&emsp;
