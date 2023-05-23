@@ -36,7 +36,9 @@ Hi there 👋. I am a seasoned software developer with over a decade of experien
 </p>
 <br />
 
-<table width="100%">
+<img align="right" alt="GIF" src="./images/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+
+<table>
 <tbody>
 <tr>
 <th> Languages </th><th> Tools </th>
