@@ -36,3 +36,13 @@ Hi there 👋. I am a seasoned software developer with over a decade of experien
         <img src="./images/bilibili.svg" width="28px"/>
     </a>
 </p>
+<br />
+
+## Languages and tools I usually use
+<br />
+<p>
+HTML CSS3 JavaScript TypeScript React NextJS Ruby on Rails
+</p>
+<p>
+VSCode Docker PostgreSQL Surge Obsidian Adobe XD
+</p>
