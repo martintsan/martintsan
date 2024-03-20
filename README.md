@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=martintsan&label=Visitors&color=brightgreen&style=flat-square&logo=github" alt="gtihub-visitors" />
 </a>
 
-<h1>I'm Martin（块马）</h1>
+<h1>I'm Martin.Z</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
 
